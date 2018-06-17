@@ -19,6 +19,8 @@ Of course, it's based on plain text!!!
 
 
 ## Format
+
+```
 Priority,  		      Task	, Owner,  Status,   	Effort
 1       ,   task1 ,		       	a   ,  Ongoing,		5 
 1       , > subtask11 ,		 	a   ,  Ongoing,		5 
@@ -27,7 +29,7 @@ Priority,  		      Task	, Owner,  Status,   	Effort
 >  : used for identifying sub task.
 >> : used for identifying sub sub task.
 >>>: Have a guess :)
-
+```
 
 ## Chart
 Gantt Chart 
