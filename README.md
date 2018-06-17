@@ -1,5 +1,5 @@
 # TextPM
-A tool uses for project management based on plain text.
+A project management tool based on plain text.
 
 ## Ideas
 I used to manage project by Excel by which I can run Agile and Scrum.
