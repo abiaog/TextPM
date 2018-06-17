@@ -32,6 +32,8 @@ Priority,  		      Task	, Owner,  Status,   	Effort
 ```
 
 ## Chart
+
 Gantt Chart 
+
 Burnndown Chart
 
