@@ -21,10 +21,11 @@ Of course, it's based on plain text!!!
 ## Format
 
 ```
-Priority,  		      Task	, Owner,  Status,   	Effort
-1       ,   task1 ,		       	a   ,  Ongoing,		5 
-1       , > subtask11 ,		 	a   ,  Ongoing,		5 
-1       , >> sub subtask111 ,		a   ,  Ongoing,		5 
+Priority,  	Task,  			Task-Id,  Owner,  Status,   	Effort     , Dependencies
+1       ,   task1 ,		        id1   ,	  a   ,  Ongoing,		5  ,   
+2       , > subtask11 ,			id11  ,	  a   ,  Ongoing,		5  ,  
+3       , >> sub subtask111 ,	        id111 ,	  a   ,  Ongoing,		5  ,  id2
+1       ,   task2 ,		        id2   ,	  a   ,  Ongoing,		5  ,   
 
 >  : used for identifying sub task.
 >> : used for identifying sub sub task.
@@ -33,7 +34,9 @@ Priority,  		      Task	, Owner,  Status,   	Effort
 
 ## Chart
 
-Gantt Chart 
+Gantt Chart 	: based on PlantUML Gannt
 
-Burnndown Chart
+Burnndown Chart : inside Excel
+
+
 
