@@ -1,3 +1,5 @@
+# Obsolete !!! Replace by another project [spm](https://github.com/abiaog/spm)
+
 # TextPM
 A project management tool based on plain text.
 
